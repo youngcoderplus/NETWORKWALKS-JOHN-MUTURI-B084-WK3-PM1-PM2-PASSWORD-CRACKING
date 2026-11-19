@@ -7,7 +7,7 @@
 | **Program** | Networkwalks Cybersecurity Training |
 | **Batch** | B084 |
 | **Project** | Week 3 – Password Cracking |
-| **Operating System** | Kali Linux |
+| **Operating System** | Kali Linux & Windows|
 | **Tools Used** | John the Ripper and Networkwalks Password Cracking Tools |
 | **Author** | John Muturi |
 
