@@ -175,33 +175,8 @@ Through the two modules, I worked with three PDF test files, explored hash gener
 
 The exercises improved my understanding of password hashes, password-cracking workflows, and the importance of strong password security.
 
-## 8. Project Directory Structure
 
-The project files are organized into two main folders, with the README file located in the root directory.
-
-```text
-JTR/
-│
-├── README.md
-│
-├── W3-PM1-Password-Cracking-with-JTR/
-│   ├── pdf1.png
-│   ├── pdf1_hash.txt
-│   ├── pdf2.png
-│   ├── pdf2_hash.txt
-│   ├── pdf3.png
-│   └── pdf3_hash.txt
-│
-└── W3-PM2-Password-Cracking-with-NW-Tools/
-    ├── pdf1cracking.png
-    ├── pdf1hashcalculator.png
-    ├── pdf2cracking.png
-    ├── pdf2hashcalculator.png
-    ├── pdf3cracking.png
-    └── pdf3hashcalculator.png
-```
-
-## 9. Evidence Collected
+## 8. Evidence Collected
 
 The project contains nine screenshots documenting the practical activities:
 
@@ -211,6 +186,7 @@ The project contains nine screenshots documenting the practical activities:
 The corresponding `.txt` files in Module 1 contain the hash information used during the exercises.
 
 ---
+Author: John Muturi
 
 **Networkwalks Cybersecurity Training – Week 3 Project**  
 *Password Cracking with John the Ripper and Networkwalks Tools*
